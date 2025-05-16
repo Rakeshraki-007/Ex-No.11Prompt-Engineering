@@ -14,6 +14,5 @@
 6.Protect: Use sunscreen during the day to protect the brightened skin and prevent further pigmentation.
 
 # Output:
-![Uploading prompt engineering.png…]()
 
 # result:
